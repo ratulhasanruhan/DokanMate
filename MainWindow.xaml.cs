@@ -9,6 +9,7 @@ namespace DokanMate
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
